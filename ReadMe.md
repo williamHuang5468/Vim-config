@@ -25,4 +25,4 @@
 - [NerdTree](https://github.com/scrooloose/nerdtree)
 - [Vim-Markdown](https://github.com/plasticboy/vim-markdown)
 - [Python Mode](https://github.com/klen/python-mode)
-
+- [Vim Config Setting](http://www.xinxingzhao.com/blog/2016/05/24/vim-base-settings.html)

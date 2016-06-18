@@ -60,6 +60,32 @@ let $LANG="zh_TW.UTF-8"
 set langmenu=zh_tw.utf-8
 set encoding=utf8
 
+" Normal Setting
+
+set number 
+set relativenumber
+
+set smartindent 
+set autoindent 
+set shiftwidth=4 
+set tabstop=4 
+set expandtab
+
+set scrolloff=3
+
+set hlsearch
+
+set cursorcolumn 
+set cursorline
+
+highlight CursorLine cterm=NONE ctermbg=black ctermfg=green guibg=NONE guifg=NONE
+
+highlight CursorColumn cterm=NONE ctermbg=black ctermfg=green guibg=NONE guifg=NONE
+
+set laststatus=2
+
+set showmatch
+
 " Hight Line 
 augroup vimrc_autocmds
     autocmd!
